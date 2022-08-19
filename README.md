@@ -11,7 +11,7 @@ pkg install git
 
 
 
-git clone https://github.com/AP0l0777/nethunter/tree/main/KaliLinux
+git clone https://github.com/AP0l0777/nethunter
 
 
 
