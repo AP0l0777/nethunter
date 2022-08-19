@@ -16,4 +16,4 @@ echo "agora voce irar baixar a imagem do kali e mover para a pasta Home"
 echo " aguarde abrindo navegador, faça o download manualmente no seu navegador!"
 echo "Aguarde o Download ser concluido e execute  ./k.sh"
 sleep 3s
-termux-open https://kali.downloa/nethunter-images/current/rootfs/kalifs-armhf.tar.xz
+termux-open https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
