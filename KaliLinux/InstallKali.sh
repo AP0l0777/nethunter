@@ -2,7 +2,6 @@
 apt update && apt update -y
 apt update
 mv InstallKali.sh $HOME
-mv k.sh $HOME
 cd
 apt install wget
 wget -O install-nethunter-termux https://offs.ec/2MceZWr
