@@ -17,5 +17,8 @@ git clone https://github.com/AP0l0777/nethunter
 
 chmod 777 InstallKali.sh
 
+cd nethunter
+
+cd KaliLinux
 
 ./InstallKali.sh
