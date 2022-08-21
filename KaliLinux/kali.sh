@@ -3,6 +3,7 @@ apt update && apt update -y apt update
 echo "Permita Acesso! "
 sleep 2s
 termux-setup-storage
+sleep 6s
 pkg install wget -Y
 clear
 ls
