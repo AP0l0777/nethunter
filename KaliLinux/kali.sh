@@ -12,5 +12,4 @@ echo "Quando o Download Acabar Digite ./linux.sh "
 echo ""
 echo ""
 echo ""
-wget https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
-
+wget https://kali.download/nethunter-images/current/rootfs/kalifs-amd64-full.tar.xz
