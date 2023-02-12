@@ -3,7 +3,7 @@ clear
 echo " Download Concluido! "
 cd $HOME
 cd storage/shared/download
-mv kalifs-armhf-full.tar.xz /data/data/com.termux/files/home
+mv kalifs-amd64-full.tar.xz /data/data/com.termux/files/home
 cd $HOME
 cd nethunter/KaliLinux
 mv InstallKali.sh $HOME
