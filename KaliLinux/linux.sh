@@ -2,9 +2,6 @@
 clear
 echo " Download Concluido! "
 cd $HOME
-cd /sdcard/download
-mv kalifs-amd64-full.tar.xz /data/data/com.termux/files/home
-cd $HOME
 cd nethunter/KaliLinux
 mv InstallKali.sh $HOME
 mv k.sh $HOME
