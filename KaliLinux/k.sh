@@ -1,10 +1,7 @@
 #!/bin/bash
 
 clear
-echo " DIGITE ( N ) PARA: [?] Existing image file found. Delete and download a new one? [y/N]"
-sleep 3s
-echo " DIGITE ( Y ) PARA : [?] Delete downloaded rootfs file ? [y/N]"
-echo " esse processo pode demorar dependendo da sua intenet "
-echo "que tal ir se hidratar !"
-sleep 3s
+echo -e "\e[1:32;31m esse processo pode demorar dependendo da sua intenet \e[m "
+echo ""
+echo -e "\e[1:32;21m que tal ir se hidratar !\e[m"
 ./InstallKali.sh
