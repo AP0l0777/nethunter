@@ -13,4 +13,4 @@ echo ""
 echo ""
 echo ""
 wget https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
-./Kali.sh
+./K.sh
