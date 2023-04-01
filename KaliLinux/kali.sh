@@ -1,15 +1,10 @@
 #!/bin/bash
 clear
-cd
-cd /sdcard/download
-echo ""
-sleep 2s
 echo " Aguarde O Download "
 echo""
 sleep 2s
 clear
-echo "Quando o Download Acabar Digite ./linux.sh "
-echo ""
+echo -e "Quando o Download Acabar Digite \e[1:33;31m ./linux.sh \e[0m "
 echo ""
 echo ""
 wget https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
