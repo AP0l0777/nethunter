@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 cd
-cd storage/shared/download
+cd /sdcard/download
 echo ""
 sleep 2s
 echo " Aguarde O Download "
