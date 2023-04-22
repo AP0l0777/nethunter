@@ -1,6 +1,14 @@
 # nethunter
 Kali NetHunter é uma plataforma de teste de penetração móvel gratuita e de código aberto para dispositivos Android, baseada em Kali Linux.
 
-# COMANDO UNICO
+<h2> Comandos </h2>
 
-yes | apt upgrade; apt update; apt install git -y; apt install wget -y; git clone https://github.com/AP0l0777/nethunter/; cd nethunter; cd KaliLinux; chmod 777 kali.sh; chmod 777 linux.sh; ./kali.sh
+apt upgrade
+apt update
+apt install git -y
+apt install wget -y
+git clone https://github.com/AP0l0777/nethunter/
+cd nethunter
+cd KaliLinux
+chmod 777 a+x *
+./kali.sh
