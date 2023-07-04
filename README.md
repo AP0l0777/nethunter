@@ -11,4 +11,4 @@ git clone https://github.com/AP0l0777/nethunter/<br>
 cd nethunter<br>
 cd KaliLinux<br>
 chmod 777 a+x *<br>
-./k.sh<
+./k.sh
